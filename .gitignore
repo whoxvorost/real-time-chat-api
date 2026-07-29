@@ -11,7 +11,7 @@ venv/
 .env.*
 !.env.example
 
-alembic/versions/*.py
+
 !alembic/versions/.gitkeep
 
 .coverage
